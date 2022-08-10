@@ -1,5 +1,5 @@
 {
-    "name": "drupal/hundun_seo",
+    "name": "ciandt-china/hundun-seo",
     "description": "Provide Search Engine Optimization (SEO) Core features and settings.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
