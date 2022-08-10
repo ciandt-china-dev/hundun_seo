@@ -1,12 +1,13 @@
 {
-    "name": "ciandt-china/hundun-seo",
+    "name": "ciandt-china/hundun_seo",
     "description": "Provide Search Engine Optimization (SEO) Core features and settings.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Dyan Zhao",
-            "email": "dyanz@ciandt.com"
+            "name": "Ciandt",
+            "homepage": "https://github.com/ciandt-china-dev",
+            "role": "Maintainer"
         }
     ],
     "minimum-stability": "dev",
